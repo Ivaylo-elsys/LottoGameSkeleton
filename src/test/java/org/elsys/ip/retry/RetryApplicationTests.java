@@ -1,6 +1,5 @@
 package org.elsys.ip.retry;
 
-import javafx.util.Pair;
 import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
